@@ -25,4 +25,5 @@ function doWhileLoop(array){
     array.pop()
   }
   while (incrementVariable())
+  return array
 }
